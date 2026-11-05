@@ -25,4 +25,6 @@ My final milestone, Due to me liking any form of a music especially when its in 
   
 My first milestone was when i had a rough version of the switch to change to image, and another milestone was when i had the microphone respond to whatever audio was played. 
 
+# place something here 
 [![First Arduino Milestone] 
+
