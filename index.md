@@ -17,7 +17,7 @@ My final milestone, Due to me liking any form of a music especially when its in 
 [![Jermery's First Milestone](https://img.youtube.com/vi/zOefR7QYvY8/maxresdefault.jpg)](https://www.youtube.com/watch?v=zOefR7QYvY8)
 
 # Final Schematic fruit jam board
-![Relevant Name] https://cdn-learn.adafruit.com/assets/assets/000/140/070/large1024/circuitpython_fruitJamVideoMusicPermaProto_bb.jpg?1759257155
+![Relevant Name](https://cdn-learn.adafruit.com/assets/assets/000/140/070/large1024/circuitpython_fruitJamVideoMusicPermaProto_bb.jpg?1759257155)
 
 https://cdn-learn.adafruit.com/assets/assets/000/140/069/large1024/circuitpython_fruitJamVideoMusic_bb.png?1759256732
 
