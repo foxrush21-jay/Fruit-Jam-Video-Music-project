@@ -14,7 +14,7 @@ https://mail.google.com/mail/u/0?ui=2&ik=40a7ef696b&attid=0.1&permmsgid=msg-f:18
 My final milestone, Due to me liking any form of a music especially when its in the form of a visual synthesizer, this project allowed me to final have that to myself and since i made this with my own hands it just adds the cherry on and i get to have something react too the music i listen to which is mostly techno, instrumental, synth wave, and sometimes just beats. Overall I'm glad i got to make this and great full for the help i was given by both Dave and Tyrik and would love to make this again any time.
 
 # insert markdown for video 
-[![Final Arduino Project] https://youtu.be/zOefR7QYvY8
+[![Jermery's First Milestone](https://img.youtube.com/vi/zOefR7QYvY8/maxresdefault.jpg)](https://www.youtube.com/watch?v=zOefR7QYvY8)
 
 # Final Schematic fruit jam board
 ![Relevant Name] https://cdn-learn.adafruit.com/assets/assets/000/140/070/large1024/circuitpython_fruitJamVideoMusicPermaProto_bb.jpg?1759257155
