@@ -5,7 +5,7 @@ This will serve as a brief description of your projects. Limit this to three sen
 |:--:|:--:|:--:|:--:|
 | Jeremy| East High School | Mechanical Engineering | Senior 
  
-# project image 
+# Project image 
 
 [![My project](img width="3072" height="4096" alt="1179" src="https://github.com/user-attachments/assets/5029cf1d-ed30-4960-aff1-92ff95d6eb32").
 
@@ -14,7 +14,7 @@ This will serve as a brief description of your projects. Limit this to three sen
 
 My final milestone, Due to me liking any form of a music especially when its in the form of a visual synthesizer, this project allowed me to final have that to myself and since i made this with my own hands it just adds the cherry on and i get to have something react too the music i listen to which is mostly techno, instrumental, synth wave, and sometimes just beats. Overall I'm glad i got to make this and great full for the help i was given by both Dave and Tyrik and would love to make this again any time.
 
-# video about project 
+# Video about project 
 [![Jermery's First Milestone](https://img.youtube.com/vi/zOefR7QYvY8/maxresdefault.jpg)](https://www.youtube.com/watch?v=zOefR7QYvY8)
 
 # Final Schematic fruit jam board
@@ -26,6 +26,6 @@ My final milestone, Due to me liking any form of a music especially when its in 
   
 My first milestone was when i had a rough version of the switch to change to image, and another milestone was when i had the microphone respond to whatever audio was played. 
 
-# place something here 
+# Finish modifications video   
 [![First Arduino Milestone] 
 
