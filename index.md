@@ -1,12 +1,12 @@
-# Project Name/Title Goes Here
-This will serve as a brief description of your projects. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make her/him want to read more.
+# Fruit jam-video music project 
+this project is a simple board with a very complex amount of code that is being used to display an image or shapes based of the set preset that you have selected by pressing a button, also it will change its color as well. Overall play music into the microphone on the box and it will have whatever displayed on the monitor reacted to the music you are playing. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Jeremy| East High School | Mechanical Engineering | Senior 
  
 # Project image 
-[![My project](img width="3072" height="4096" alt="1179" src="https://github.com/user-attachments/assets/5029cf1d-ed30-4960-aff1-92ff95d6eb32").
+[![My project]("https://github.com/user-attachments/assets/5029cf1d-ed30-4960-aff1-92ff95d6eb32").
 
 
 # Final Milestone
