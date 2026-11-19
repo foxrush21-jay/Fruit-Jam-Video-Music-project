@@ -6,7 +6,7 @@ this project is a simple board with a very complex amount of code that is being 
 | Jeremy| East High School | Mechanical Engineering | Senior 
  
 # Project image 
-[![My project]("https://github.com/user-attachments/assets/5029cf1d-ed30-4960-aff1-92ff95d6eb32").
+[![My project]("[https://github.com/user-attachments/assets/5029cf1d-ed30-**4960**-aff1-92ff95d6eb32"](https://github.com/user-attachments/assets/5029cf1d-ed30-**4960**-aff1-92ff95d6eb32")).
 
 
 # Final Milestone
