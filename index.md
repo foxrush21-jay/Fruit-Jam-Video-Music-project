@@ -6,8 +6,7 @@ This will serve as a brief description of your projects. Limit this to three sen
 | Jeremy| East High School | Mechanical Engineering | Senior 
  
 # Project image 
-
-[![My project](img width=*3072* height=*4096* alt=*1179* src="[https://github.com/user-attachments/assets/5029cf1d-ed30-**4960**-aff1-92ff95d6eb32"](https://github.com/user-attachments/assets/5029cf1d-ed30-**4960**-aff1-92ff95d6eb32")).
+[![My project](img width="3072" height="4096" alt="1179" src="https://github.com/user-attachments/assets/5029cf1d-ed30-4960-aff1-92ff95d6eb32").
 
 
 # Final Milestone
