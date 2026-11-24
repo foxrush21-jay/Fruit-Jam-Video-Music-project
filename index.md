@@ -3,7 +3,7 @@ this project is a simple board with a very complex amount of code that is being 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Jeremy| East High School | Mechanical Engineering | Senior 
+| Jeremy B-R | East High School | Mechanical Engineering | Senior 
  
 # Project image 
 [![My project]("https://github.com/user-attachments/assets/5029cf1d-ed30-4960-aff1-92ff95d6eb32").
@@ -19,9 +19,8 @@ My first milestone was when i had a rough version of the switch to change to ima
 ![Relevant Name](https://cdn-learn.adafruit.com/assets/assets/000/140/069/large1024/circuitpython_fruitJamVideoMusic_bb.png?1759256732)
 
 # Final Milestone
-  
 My final milestone, Due to me liking any form of a music especially when its in the form of a visual synthesizer, this project allowed me to final have that to myself and since i made this with my own hands it just adds the cherry on and i get to have something react too the music i listen to which is mostly techno, instrumental, synth wave, and sometimes just beats. Overall I'm glad i got to make this and great full for the help i was given by both Dave and Tyrik and would love to make this again any time.
 
 # Finish modifications video   
-[![First Arduino Milestone] 
+
 
